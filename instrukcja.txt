@@ -1,0 +1,22 @@
+Wersja gotowa do uruchomienia znajduję się w katalogu 'dist',
+w katalogu src znajdują się pliki w wersji deweloperskiej.
+
+Program wczytuje plik 'teren.png' w katalogu "//src/bitmap/",
+plik ten można podmienić na inny o tej samej nazwie i rozszerzeniu '.png'.
+Im jaśniejszy punkt na mapie tym wyższy teren powstanie, program operuje na kanale czerwieni 'R',
+inne kanały są pomijane, łącznie z kanałem alfa.
+
+sterowanie:
+
+	obracanie - LPM
+	przesuwanie - PPM
+	zblirzanie/oddalanie - scroll
+
+skalowanie terenu:
+
+	wypiętrzanie terenu - 'q'
+	wygładzanie terenu - 'a'
+
+
+	! Niektór przeglądarki mogą mieć domyślnie zablokowane odczytywanie obrazów.
+		powinno zadziałać na domyślnych ustawieniach Microsoft Edge.	!
