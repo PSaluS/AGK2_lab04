@@ -18,5 +18,21 @@ skalowanie terenu:
 	wygładzanie terenu - 'a'
 
 
+
+
+
+	LAB 5
+
+zmiana trybu:
+
+	1 - zielona siatka trójkątów (instrukcja 4)
+	2 - kolor terenu skalowany od wysokości (zielony niżej, czerwony wyżej)
+	3 - kolor terenu zależy od kanałów G oraz B bitmapy terenu
+	4 - terez teksturowany
+
+	Należy używaż kalwiszy standardowych, numpad może nie działać.
+
+
+
 	! Niektór przeglądarki mogą mieć domyślnie zablokowane odczytywanie obrazów.
 		powinno zadziałać na domyślnych ustawieniach Microsoft Edge.	!
